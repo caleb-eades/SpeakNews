@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speak News</string>
+    <string name="new_feed">New Feed</string>
+    <string name="edit_feed">Edit Feed</string>
+    <string name="pause">Pause</string>
+    <string name="delete_feed">Delete Feed</string>
+    <string name="rss_list_activity">RSS Feeds</string>
+    <string name="feed_list_activity">RSS Feed</string>
+    <string name="enter_name">Enter RSS Name:</string>
+    <string name="enter_name_hint">Enter Name Here</string>
+    <string name="enter_url">Enter RSS URL:</string>
+    <string name="enter_url_hint">http://</string>
+    <string name="preview_feed">Preview Feed</string>
+    <string name="create_feed">Create Feed</string>
+    <string name="rss_preview">RSS Preview</string>
+    <string name="rss_retrieve">Retrieving RSS</string>
+    <string name="no_feeds">Oops!! You don\'t have any RSS feeds yet. To create one, press New Feed</string>
+    <string name="help">Help</string>
+    
+</resources>

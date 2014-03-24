@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style 
+    name="AppTheme"
+    parent="@android:style/Theme.Holo.Light">
+    <item name="android:actionBarStyle">@style/AppTheme.ActionBar</item>
+  </style>
+  <style 
+    name="AppTheme.ActionBar"
+    parent="@android:style/Widget.Holo.Light.ActionBar">
+    <item name="android:background">@drawable/media_bar</item>
+    <item name="android:titleTextStyle">@style/ItalicBold</item>
+  </style>
+  <style
+    name="ItalicBold">
+    <item name="android:textColor">#ff303030</item>
+    <item name="android:textStyle">bold|italic</item> 
+    <item name="android:textSize">20sp</item> 
+  </style>
+  <style
+    name="ItalicBold.Button">
+    <item name="android:background">@drawable/list_element_selector</item> 
+  </style>
+</resources>

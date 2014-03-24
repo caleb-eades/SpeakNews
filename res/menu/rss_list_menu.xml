@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+    android:id="@+id/new_feed_button"
+    android:title="@string/new_feed"
+    android:icon="@drawable/new_icon"/> 
+<!--
+  <item
+    android:id="@+id/help_button"
+    android:title="@string/help"
+    android:icon="@drawable/help_icon"/>
+-->
+</menu>
